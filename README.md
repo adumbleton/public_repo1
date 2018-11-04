@@ -1,2 +1,2 @@
-# publicrepo1
-My Public Repo 1
+# public_repo1
+My Public Repo /#1
